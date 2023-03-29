@@ -11,6 +11,6 @@ My database knowledge includes SQLServer, MySQL, PostgreSQL, MongoDB, and Redis,
 Thank you for visiting my GitHub profile! I am excited to continue sharing my projects and learning from the open-source community.
 <br/>  
 
-Check out my blog at https://marcosferreira17.github.io and my personal website at https://marcosferreira.vercel.app
+Check out my blog at https://marcosferreira17.github.io/blog and my personal website at https://marcosferreira.vercel.app
 
 [![@marcosferreira17's Holopin board](https://holopin.me/marcosferreira17)](https://holopin.io/@marcosferreira17)
