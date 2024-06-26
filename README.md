@@ -4,29 +4,10 @@
 
 <h1 align="center">Hi there, I'm Marcos Ferreira 👋</h1>
 
-### About Me
-
-🖥️ **Professional Background**: With over 3 years of experience in the field, I have honed my skills in highly critical environments, including renowned organizations like B3 Insurance and Western Union. These experiences have equipped me with the expertise needed to build mission-critical software solutions tailored to specific client requirements.
-
-🚀 **Technical Expertise**: My skill set covers a wide range of technologies and tools. On the backend, I specialize in C#, Java, and frameworks such as .NET Framework, .NET Core, and Spring Boot. I am well-versed in containerization with Docker and efficient communication using RabbitMQ.
-
-🌐 **Frontend Proficiency**: I am not just confined to backend development; I have a solid foundation in frontend technologies like HTML, CSS, and JavaScript. I'm proficient in modern frontend frameworks like React, enabling me to create sleek and responsive user interfaces.
-
-🛡️ **Quality Assurance**: Quality is of paramount importance to me. I am an expert in unit testing with XUnit and JUnit, ensuring the reliability of the code I produce. My experience extends to various databases, including SQL Server, MySQL, PostgreSQL, MongoDB, and Redis.
-
 ### IT Certifications
-
 🔒 - AZ900 - Azure Fundamentals
 📊 - DP900 - Azure Data Fundamentals
 🛡️ - SC900 - Security, Compliance, and Identity Fundamentals
-
-### Specialties
-
-👥 **Leadership**: I possess strong leadership skills, empowering teams to achieve their best and fostering a collaborative work environment.
-
-🧩 **Problem Solving**: Complex challenges excite me, and I am adept at devising innovative solutions.
-
-🛠️ **Technologies**: C#, ASP.NET, .NET Core, .NET Framework, Java, Spring Boot, HTML, CSS, JavaScript, TailwindCSS, Bootstrap, React.JS, React Native, XUnit, JUnit, Unit Tests, Integration Tests, EntityFramework, Dapper, Containers, DevOps, Jenkins, CI/CD, Gitlab, Redis, SQL Server, MySQL, OracleDB, MongoDB, SQL, ElasticSearch, RabbitMQ, Docker, Git, Planning, MVC, CQRS, Microservices, Cloud Computing, Kibana, Azure.
 
 I'm excited about the opportunities to collaborate, learn, and share knowledge. Let's connect and build amazing things together! 🚀
 
